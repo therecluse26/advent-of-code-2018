@@ -1,0 +1,11 @@
+/Users/bradmagyar/Code/CSharp/advent-of-code-2018/day-1/bin/Debug/netcoreapp2.2/day-1.deps.json
+/Users/bradmagyar/Code/CSharp/advent-of-code-2018/day-1/bin/Debug/netcoreapp2.2/day-1.runtimeconfig.json
+/Users/bradmagyar/Code/CSharp/advent-of-code-2018/day-1/bin/Debug/netcoreapp2.2/day-1.runtimeconfig.dev.json
+/Users/bradmagyar/Code/CSharp/advent-of-code-2018/day-1/bin/Debug/netcoreapp2.2/day-1.dll
+/Users/bradmagyar/Code/CSharp/advent-of-code-2018/day-1/bin/Debug/netcoreapp2.2/day-1.pdb
+/Users/bradmagyar/Code/CSharp/advent-of-code-2018/day-1/obj/Debug/netcoreapp2.2/day-1.csprojAssemblyReference.cache
+/Users/bradmagyar/Code/CSharp/advent-of-code-2018/day-1/obj/Debug/netcoreapp2.2/day-1.csproj.CoreCompileInputs.cache
+/Users/bradmagyar/Code/CSharp/advent-of-code-2018/day-1/obj/Debug/netcoreapp2.2/day-1.AssemblyInfoInputs.cache
+/Users/bradmagyar/Code/CSharp/advent-of-code-2018/day-1/obj/Debug/netcoreapp2.2/day-1.AssemblyInfo.cs
+/Users/bradmagyar/Code/CSharp/advent-of-code-2018/day-1/obj/Debug/netcoreapp2.2/day-1.dll
+/Users/bradmagyar/Code/CSharp/advent-of-code-2018/day-1/obj/Debug/netcoreapp2.2/day-1.pdb
